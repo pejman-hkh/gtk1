@@ -1,0 +1,11 @@
+GtkLabel {
+  padding: 5px;
+}
+
+GtkButton {
+    padding:0;
+}
+
+GtkComboBox * {
+    padding:1px;
+}
